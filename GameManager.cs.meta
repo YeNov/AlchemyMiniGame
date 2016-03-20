@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 520615606fd19c64398b881b6fb5cedd
+timeCreated: 1458231934
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MovingCircle: {fileID: 100954, guid: 7a8e90454225f2a499919604d08211ea, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
